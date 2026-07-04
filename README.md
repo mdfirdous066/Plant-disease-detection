@@ -1,7 +1,5 @@
 # From Field Images to Fast Predictions: Efficient Deep Learning for Plant Disease Detection
 
-[![Paper](https://img.shields.io/badge/Paper-ComSNets%202026-blue)](Paper.pdf)
-[![Conference](https://img.shields.io/badge/Conference-AIoT%20Session-green)]()
 [![Python](https://img.shields.io/badge/Python-3.x-yellow)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
 
