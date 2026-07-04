@@ -5,10 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.x-yellow)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
 
-## Publication
-
-**This paper has been accepted and published at [ComSNets 2026](https://www.comsnets.org/) in the AIoT (Artificial Intelligence of Things) session.**
-
 ---
 
 ## Abstract
@@ -143,43 +139,6 @@ pip install tensorflow keras numpy pandas scikit-learn matplotlib seaborn
 ```
 
 3. Run the Jupyter notebooks for training and evaluation.
-
----
-
-## Authors
-
-| Name | Admission No. |
-|------|---------------|
-| Aniruddh Jain | U22CS088 |
-| Nikhil Tiwari | U22CS091 |
-| Saud Masaud Alam | U22CS094 |
-| Mahek Patel | U22CS103 |
-
-**Supervisor**: Dr. Sourajit Behera
-
-**Institution**: Department of Computer Science and Engineering, Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, India
-
----
-
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@inproceedings{jain2026field,
-  title={From Field Images to Fast Predictions: Efficient Deep Learning for Plant Disease Detection},
-  author={Jain, Aniruddh and Tiwari, Nikhil and Alam, Saud Masaud and Patel, Mahek},
-  booktitle={IEEE International Conference on Communication Systems and Networks (ComSNets)},
-  year={2026},
-  organization={IEEE}
-}
-```
-
----
-
-## Acknowledgements
-
-We express our heartfelt gratitude to our supervisor, **Dr. Sourajit Behera**, for his invaluable guidance and continuous encouragement throughout this project. We also thank the faculty and staff of the Department of Computer Science and Engineering, SVNIT Surat, for their constant support.
 
 ---
 
